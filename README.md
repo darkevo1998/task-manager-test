@@ -22,7 +22,7 @@ A simple task management application with drag-and-drop reordering and project o
 
 1. Clone the repository:
    ```bash
-   download it on the zip folder
+   git clone https://github.com/darkevo1998/task-manager-test.git
    cd task-manager
    ```
 2. Install PHP dependencies:
